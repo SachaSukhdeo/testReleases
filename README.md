@@ -5,3 +5,4 @@
 # testRelease4 commit2
 # testRelease5 commit1
 # testRelease5 commit2
+# testRelease6 commit1 release-branch
