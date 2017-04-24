@@ -8,3 +8,4 @@
 # testRelease6 commit1 release-branch
 # testRelease6 commit2 release-branch
 # testRelease7 commit1 release-branch
+# testRelease7 commit1 hot-fix2
