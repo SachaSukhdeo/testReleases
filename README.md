@@ -7,5 +7,8 @@
 # testRelease5 commit2
 # testRelease6 commit1 release-branch
 # testRelease6 commit2 release-branch
-# testRelease7 commit1 release-branch
-# testRelease7 commit1 release-branch, hot-fix1
+# testRelease7 commit1 release2-branch
+# testRelease7 commit1 release2-branch, hot-fix1
+# testRelease8 commit1 release3-branch
+# testRelease8 commit2 release3-branch
+# testRelease8 commit3 release3-branch
