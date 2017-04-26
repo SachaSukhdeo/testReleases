@@ -12,4 +12,5 @@
 # testRelease8 commit1 release3-branch
 # testRelease8 commit2 release3-branch
 # testRelease8 commit3 release3-branch
-# testRelease9 commit1 release4-branch
+# testRelease9 commit2 release4-branch
+# testRelease9 commit3 release4-branch
